@@ -40,4 +40,4 @@
 #### 参与贡献
 
 1.  
-2.  
+2.  Ming, Z., Jiahui, M., Hao, C., & chenshi. PhaseNet-based Seismic Wave and Phase Detection System. Earthquake Research in China, doi:10.19743/j.cnki.0891-4176.202102001

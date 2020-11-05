@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<system>
+  <ip>13.92.56.195</ip>
+  <dbname>PhDebuger</dbname>
+  <uid>majiahui</uid>
+  <pwd>nxycMJH19960622</pwd>
+  <sysname>PhDebuger</sysname>
+  <lastFilePath>F:\微软创新杯\docker\ai_phasepicking\npz_continuous_data\SC_MET</lastFilePath>
+  <inputPath>F:\docker_test\docker_input</inputPath>
+  <outputPath>F:\docker_test\docker_output</outputPath>
+  <dockerPath>D:\docker_toolbox\Docker Toolbox\installers\virtualbox</dockerPath>
+  <probability>0.5</probability>
+  <device>cpu</device>
+  <multithreading>1</multithreading>
+  <type>csv</type>
+  <picture>pl</picture>
+  <pfNum>
+  </pfNum>
+  <version>Local</version>
+</system>

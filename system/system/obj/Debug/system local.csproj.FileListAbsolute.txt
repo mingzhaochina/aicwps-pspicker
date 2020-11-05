@@ -1,0 +1,94 @@
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\system.exe
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\system.pdb
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\DiffieHellman.dll
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\Newtonsoft.Json.dll
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\Org.Mentalis.Security.dll
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\Qios.DevSuite.Components.dll
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\Tamir.SharpSSH.dll
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\Core.Common.pdb
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\Core.DBUtility.pdb
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\Core.Web.pdb
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\Newtonsoft.Json.xml
+F:\微软创新杯\system单机版\system\system\system\bin\Debug\Qios.DevSuite.Components.xml
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system local.csprojAssemblyReference.cache
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.FormAbout.resources
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.FormChart.resources
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.FormDialog.resources
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.FormLogin.resources
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.FormMain.resources
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.FormOutPut.resources
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.FormSetting.resources
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.Properties.Resources.resources
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system local.csproj.GenerateResource.cache
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.exe.licenses
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system local.csproj.CoreCompileInputs.cache
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system local.csproj.CopyComplete
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.exe
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.pdb
+F:\微软创新杯\system单机版\system\system\system\obj\Debug\system.FormRunOption.resources
+D:\system(1)\system\system\bin\Debug\system.exe
+D:\system(1)\system\system\bin\Debug\system.pdb
+D:\system(1)\system\system\bin\Debug\DiffieHellman.dll
+D:\system(1)\system\system\bin\Debug\Newtonsoft.Json.dll
+D:\system(1)\system\system\bin\Debug\Org.Mentalis.Security.dll
+D:\system(1)\system\system\bin\Debug\Renci.SshNet.Async.dll
+D:\system(1)\system\system\bin\Debug\Renci.SshNet.dll
+D:\system(1)\system\system\bin\Debug\Tamir.SharpSSH.dll
+D:\system(1)\system\system\bin\Debug\Core.Common.pdb
+D:\system(1)\system\system\bin\Debug\Core.DBUtility.pdb
+D:\system(1)\system\system\bin\Debug\Core.Web.pdb
+D:\system(1)\system\system\bin\Debug\Newtonsoft.Json.xml
+D:\system(1)\system\system\bin\Debug\Qios.DevSuite.Components.xml
+D:\system(1)\system\system\bin\Debug\Renci.SshNet.xml
+D:\system(1)\system\system\bin\Debug\Renci.SshNet.Async.xml
+D:\system(1)\system\system\obj\Debug\system local.csprojAssemblyReference.cache
+D:\system(1)\system\system\obj\Debug\system.FormAbout.resources
+D:\system(1)\system\system\obj\Debug\system.FormChart.resources
+D:\system(1)\system\system\obj\Debug\system.FormDialog.resources
+D:\system(1)\system\system\obj\Debug\system.FormLogin.resources
+D:\system(1)\system\system\obj\Debug\system.FormMain.resources
+D:\system(1)\system\system\obj\Debug\system.FormOutPut.resources
+D:\system(1)\system\system\obj\Debug\system.FormRunOption.resources
+D:\system(1)\system\system\obj\Debug\system.FormSetting.resources
+D:\system(1)\system\system\obj\Debug\system.Properties.Resources.resources
+D:\system(1)\system\system\obj\Debug\system local.csproj.GenerateResource.cache
+D:\system(1)\system\system\obj\Debug\system.exe.licenses
+D:\system(1)\system\system\obj\Debug\system local.csproj.CoreCompileInputs.cache
+D:\system(1)\system\system\obj\Debug\system local.csproj.CopyComplete
+D:\system(1)\system\system\obj\Debug\system.exe
+D:\system(1)\system\system\obj\Debug\system.pdb
+F:\system\system\system\bin\Debug\system.exe
+F:\system\system\system\bin\Debug\system.pdb
+F:\system\system\system\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+F:\system\system\system\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+F:\system\system\system\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+F:\system\system\system\bin\Debug\DiffieHellman.dll
+F:\system\system\system\bin\Debug\Newtonsoft.Json.dll
+F:\system\system\system\bin\Debug\Org.Mentalis.Security.dll
+F:\system\system\system\bin\Debug\Qios.DevSuite.Components.dll
+F:\system\system\system\bin\Debug\Renci.SshNet.Async.dll
+F:\system\system\system\bin\Debug\Renci.SshNet.dll
+F:\system\system\system\bin\Debug\Tamir.SharpSSH.dll
+F:\system\system\system\bin\Debug\Newtonsoft.Json.xml
+F:\system\system\system\bin\Debug\Qios.DevSuite.Components.xml
+F:\system\system\system\bin\Debug\Renci.SshNet.xml
+F:\system\system\system\bin\Debug\Renci.SshNet.Async.xml
+F:\system\system\system\obj\Debug\system.FormAbout.resources
+F:\system\system\system\obj\Debug\system.FormChart.resources
+F:\system\system\system\obj\Debug\system.FormDialog.resources
+F:\system\system\system\obj\Debug\system.FormLogin.resources
+F:\system\system\system\obj\Debug\system.FormMain.resources
+F:\system\system\system\obj\Debug\system.FormOutPut.resources
+F:\system\system\system\obj\Debug\system.FormRunOption.resources
+F:\system\system\system\obj\Debug\system.FormSetting.resources
+F:\system\system\system\obj\Debug\system.Properties.Resources.resources
+F:\system\system\system\obj\Debug\system local.csproj.GenerateResource.cache
+F:\system\system\system\obj\Debug\system.exe.licenses
+F:\system\system\system\obj\Debug\system local.csproj.CoreCompileInputs.cache
+F:\system\system\system\obj\Debug\system local.csproj.CopyComplete
+F:\system\system\system\obj\Debug\system.exe
+F:\system\system\system\obj\Debug\system.pdb
+F:\system\system\system\obj\Debug\system local.csprojAssemblyReference.cache

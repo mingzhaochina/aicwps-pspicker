@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<system>
+  <sysname>人工智能连续地震波形处理系统</sysname>
+  <menu>工具栏</menu>
+  <logo>图标</logo>
+  <panelHomepage>开始</panelHomepage>
+  <itemOption>设置</itemOption>
+  <itemCancel>取消</itemCancel>
+  <panelSave>保存</panelSave>
+  <itemBegin>开始</itemBegin>
+  <itemAdd>添加</itemAdd>
+  <itemResult>结果</itemResult>
+  <itemChart>图表</itemChart>
+  <panelExcel>表格</panelExcel>
+  <itemExport>导出</itemExport>
+  <itemPrint>打印</itemPrint>
+  <panelAbout>其他</panelAbout>
+  <itemAbout>关于</itemAbout>
+  <itemHelp>帮助</itemHelp>
+  <itemLanguage>语言</itemLanguage>
+  <panelExit>退出</panelExit>
+  <itemExit>退出</itemExit>
+</system>

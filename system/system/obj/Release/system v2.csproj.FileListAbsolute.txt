@@ -1,0 +1,95 @@
+F:\system\system\system\bin\Release\system.exe
+F:\system\system\system\bin\Release\system.pdb
+F:\system\system\system\bin\Release\ComponentFactory.Krypton.Navigator.dll
+F:\system\system\system\bin\Release\ComponentFactory.Krypton.Ribbon.dll
+F:\system\system\system\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+F:\system\system\system\bin\Release\ComponentFactory.Krypton.Workspace.dll
+F:\system\system\system\bin\Release\DiffieHellman.dll
+F:\system\system\system\bin\Release\Newtonsoft.Json.dll
+F:\system\system\system\bin\Release\Org.Mentalis.Security.dll
+F:\system\system\system\bin\Release\Qios.DevSuite.Components.dll
+F:\system\system\system\bin\Release\Renci.SshNet.Async.dll
+F:\system\system\system\bin\Release\Renci.SshNet.dll
+F:\system\system\system\bin\Release\Tamir.SharpSSH.dll
+F:\system\system\system\bin\Release\Newtonsoft.Json.xml
+F:\system\system\system\bin\Release\Qios.DevSuite.Components.xml
+F:\system\system\system\bin\Release\Renci.SshNet.xml
+F:\system\system\system\bin\Release\Renci.SshNet.Async.xml
+F:\system\system\system\obj\Release\system.FormAbout.resources
+F:\system\system\system\obj\Release\system.FormChart.resources
+F:\system\system\system\obj\Release\system.FormDialog.resources
+F:\system\system\system\obj\Release\system.FormLogin.resources
+F:\system\system\system\obj\Release\system.FormMain.resources
+F:\system\system\system\obj\Release\system.FormOutPut.resources
+F:\system\system\system\obj\Release\system.FormRunOption.resources
+F:\system\system\system\obj\Release\system.FormSetting.resources
+F:\system\system\system\obj\Release\system.Properties.Resources.resources
+F:\system\system\system\obj\Release\system v2.csproj.GenerateResource.cache
+F:\system\system\system\obj\Release\system.exe.licenses
+F:\system\system\system\obj\Release\system v2.csproj.CoreCompileInputs.cache
+F:\system\system\system\obj\Release\system v2.csproj.CopyComplete
+F:\system\system\system\obj\Release\system.exe
+F:\system\system\system\obj\Release\system.pdb
+F:\system\system\system\obj\Release\system v2.csprojAssemblyReference.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\system.exe
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\system.pdb
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\DiffieHellman.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Newtonsoft.Json.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Org.Mentalis.Security.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Renci.SshNet.Async.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Renci.SshNet.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Tamir.SharpSSH.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Newtonsoft.Json.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Qios.DevSuite.Components.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Renci.SshNet.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Renci.SshNet.Async.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system v2.csprojAssemblyReference.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormAbout.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormChart.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormDialog.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormLogin.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormMain.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormOutPut.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormRunOption.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormSetting.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.Properties.Resources.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system v2.csproj.GenerateResource.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.exe.licenses
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system v2.csproj.CoreCompileInputs.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system v2.csproj.CopyComplete
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.exe
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.pdb
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system v2.csprojAssemblyReference.cache
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.FormAbout.resources
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.FormChart.resources
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.FormDialog.resources
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.FormLogin.resources
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.FormMain.resources
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.FormOutPut.resources
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.FormRunOption.resources
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.FormSetting.resources
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.Properties.Resources.resources
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system v2.csproj.GenerateResource.cache
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.exe.licenses
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system v2.csproj.CoreCompileInputs.cache
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.exe
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system.pdb
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\system.exe
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\system.pdb
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\ComponentFactory.Krypton.Navigator.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\ComponentFactory.Krypton.Ribbon.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\ComponentFactory.Krypton.Workspace.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\DiffieHellman.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\Newtonsoft.Json.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\Org.Mentalis.Security.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\Qios.DevSuite.Components.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\Renci.SshNet.Async.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\Renci.SshNet.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\Tamir.SharpSSH.dll
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\Newtonsoft.Json.xml
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\Qios.DevSuite.Components.xml
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\Renci.SshNet.xml
+F:\地震局合作项目\程序\SWPHDS\system\system\bin\Release\Renci.SshNet.Async.xml
+F:\地震局合作项目\程序\SWPHDS\system\system\obj\Release\system v2.csproj.CopyComplete

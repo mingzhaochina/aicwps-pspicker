@@ -1,0 +1,53 @@
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\system.exe
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\system.pdb
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\DiffieHellman.dll
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\Newtonsoft.Json.dll
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\Org.Mentalis.Security.dll
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\Renci.SshNet.Async.dll
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\Renci.SshNet.dll
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\Tamir.SharpSSH.dll
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\Newtonsoft.Json.xml
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\Renci.SshNet.xml
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\bin\Debug\Renci.SshNet.Async.xml
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\AICWPS-PSPicker.csprojAssemblyReference.cache
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.FormAbout.resources
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.FormChart.resources
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.FormDialog.resources
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.FormLogin.resources
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.FormMain.resources
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.FormOutPut.resources
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.FormRunOption.resources
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.FormSetting.resources
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.Properties.Resources.resources
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\AICWPS-PSPicker.csproj.GenerateResource.cache
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.exe.licenses
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\AICWPS-PSPicker.csproj.CoreCompileInputs.cache
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\AICWPS-PSPicker.csproj.CopyComplete
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.exe
+F:\地震局合作项目\程序\AICPWS-PSPicker\system\system\obj\Debug\system.pdb
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\system.exe
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\system.pdb
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\DiffieHellman.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\Newtonsoft.Json.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\Org.Mentalis.Security.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\Renci.SshNet.Async.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\Renci.SshNet.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\Tamir.SharpSSH.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\Newtonsoft.Json.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\Renci.SshNet.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\bin\Debug\Renci.SshNet.Async.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.FormAbout.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.FormChart.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.FormDialog.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.FormLogin.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.FormMain.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.FormOutPut.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.FormRunOption.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.FormSetting.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.Properties.Resources.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\AICWPS-PSPicker.csproj.GenerateResource.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.exe.licenses
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\AICWPS-PSPicker.csproj.CoreCompileInputs.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\AICWPS-PSPicker.csproj.CopyComplete
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.exe
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-11\AICPWS-PSPicker\system\system\obj\Debug\system.pdb

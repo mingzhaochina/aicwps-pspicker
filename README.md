@@ -1,5 +1,7 @@
 # AICWPS-PSPicker
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4246086.svg)](https://doi.org/10.5281/zenodo.4246086)
+
 #### 介绍
 基于PhaseNet的波形识别软件。
 
@@ -39,5 +41,6 @@
 
 #### 参与贡献
 
-1.  
+1.  Ming Zhao, Jiahui Ma, Hao Chang. (2020, November 5).  mingzhaochina/aicwps-pspicker 1.0 (Version 1.0). Zenodo. 10.5281/zenodo.4246086
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4246086.svg)](https://doi.org/10.5281/zenodo.4246086)
 2.  Ming, Z., Jiahui, M., Hao, C., & chenshi. PhaseNet-based Seismic Wave and Phase Detection System. Earthquake Research in China, doi:10.19743/j.cnki.0891-4176.202102001

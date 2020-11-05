@@ -39,7 +39,7 @@
 
 
 
-#### 参与贡献
+#### 引用
 
 1.  Ming Zhao, Jiahui Ma, Hao Chang. (2020, November 5).  mingzhaochina/aicwps-pspicker 1.0 (Version 1.0). Zenodo. 10.5281/zenodo.4246086
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4246086.svg)](https://doi.org/10.5281/zenodo.4246086)
